@@ -1,0 +1,50 @@
+{
+  "uuid": "f8bef9d0-00d7-4277-93ba-9a8046e74587",
+  "date": "19:55:29 13.08.2020 +0200",
+  "sportTypes": {
+    "sporttypes": [
+      {
+        "scorring": {
+          "count": 2,
+          "unit": "Sekunden",
+          "sortingMethod": -1,
+          "uuid": "70d82d54-7c03-4e89-a104-b463408259a6"
+        },
+        "groups": [
+          "efa06cc9-ab74-4977-b103-7196611580c5"
+        ],
+        "displayName": "100m Lauf",
+        "uuid": "4e1683b1-711b-406f-963c-8c711e751bc9"
+      }
+    ]
+  },
+  "groups": {
+    "groups": [
+      {
+        "persons": [
+          {
+            "gender": "w",
+            "preName": "Dagmar Paul",
+            "name": "Wobbe",
+            "displayName": "Wobbe, Dagmar Paul",
+            "uuid": "ae745512-027c-438a-af7c-3e1be431f3a8"
+          }
+        ],
+        "displayName": "5A",
+        "uuid": "efa06cc9-ab74-4977-b103-7196611580c5"
+      }
+    ]
+  },
+  "values": {
+    "values": [
+      {
+        "sporttype": "4e1683b1-711b-406f-963c-8c711e751bc9",
+        "person": "ae745512-027c-438a-af7c-3e1be431f3a8",
+        "values": [
+          99.28673478034725,
+          82.25969766772515
+        ]
+      }
+    ]
+  }
+}
