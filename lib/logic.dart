@@ -17,7 +17,7 @@ class Logic {
   }
 
   void writeToFile (String val, String uuid , String sT){
-
+    
   }
 
   List<Widget> getClassList(Data data) {
