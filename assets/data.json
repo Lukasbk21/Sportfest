@@ -27,10 +27,30 @@
             "preName": "Dagmar Paul",
             "name": "Wobbe",
             "displayName": "Wobbe, Dagmar Paul",
+            "uuid": "ae"
+          },
+          {
+            "gender": "w",
+            "preName": "Dagmar Paul",
+            "name": "Wobbe",
+            "displayName": "WobbePaul",
             "uuid": "ae745512-027c-438a-af7c-3e1be431f3a8"
           }
         ],
         "displayName": "5A",
+        "uuid": "efa06cc9-ab74-4977-b103-7196611580c5"
+      },
+      {
+        "persons": [
+          {
+            "gender": "w",
+            "preName": "Dagmar Paul",
+            "name": "Wobbe",
+            "displayName": "Wobbe, PpPP",
+            "uuid": "ae745512-027c-438a-af7c-3e1be431f3a8"
+          }
+        ],
+        "displayName": "6A",
         "uuid": "efa06cc9-ab74-4977-b103-7196611580c5"
       }
     ]
